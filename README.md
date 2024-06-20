@@ -36,4 +36,4 @@ Updated holiday statuses based on the UK Public Holiday list.
 
 ## **Conclusions**
 
-In 2016, 10.1 million riders used the London Bike Sharing service, with peak usage in summer and spring. Weekday peak hours correlate with work commute times, while holidays see increased usage. These insights can help Transport for London (TFL) manage resources, maintenance, and operations to meet demand and improve system efficiency.
+In 2016, London's Bike Sharing service recorded 10.1 million riders, experiencing peak usage during summer and spring. Analysis reveals that weather conditions significantly influence ridership, with more cyclists taking to the streets during warmer months. Weekday peaks coincide with commute times, indicating bikes are popular for daily travel. Moreover, holidays like Christmas and Good Friday show increased usage, reflecting leisurely and recreational biking habits. These insights provide Transport for London (TFL) with valuable data to optimize resource allocation, maintenance schedules, and operational strategies, aiming to enhance service efficiency and meet diverse user needs effectively.
