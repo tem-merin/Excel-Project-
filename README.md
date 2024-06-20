@@ -10,7 +10,7 @@ The dataset used for this project is the “London Bike Sharing dataset” from 
 
 ## **Key steps in data cleaning:**
 
-Used only the complete dataset for 2015.
+Used only the complete dataset for 2016.
 Removed duplicates using the “Remove Data Duplication” option.
 Renamed columns for clarity.
 Separated “time” from the timestamp and converted it to "Date" and "Time".
@@ -34,4 +34,4 @@ Updated holiday statuses based on the UK Public Holiday list.
 
 ## **Conclusions**
 
-In 2015, 10.1 million riders used the London Bike Sharing service, with peak usage in summer and spring. Weekday peak hours correlate with work commute times, while holidays see increased usage. These insights can help Transport for London (TFL) manage resources, maintenance, and operations to meet demand and improve system efficiency.
+In 2016, 10.1 million riders used the London Bike Sharing service, with peak usage in summer and spring. Weekday peak hours correlate with work commute times, while holidays see increased usage. These insights can help Transport for London (TFL) manage resources, maintenance, and operations to meet demand and improve system efficiency.
